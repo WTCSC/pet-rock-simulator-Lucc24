@@ -88,7 +88,6 @@ while True:
     elif action == "glue":
         health += 2
         rage += 3
-        happiness -= 1
         print(f"You glue {rock_name}. It seems to hold together better.")
     elif action == "soul":
         mystery += 2
