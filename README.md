@@ -1,1 +1,15 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/EKU0JGMm)
+# Pet rock simulator
+This is just a fun little game where you control a pet rock (with some secrets!)
+
+## Running
+Just download the ```rock_life``` file and run it in whatever python interpreter you like!
+
+## Requirements
+- Python 3.10 or higher
+- Python runner/interpreter
+
+## Contribution
+You can contribute by opening a pull request or submitting an issue
+
+### License
+All Rights Reserved
